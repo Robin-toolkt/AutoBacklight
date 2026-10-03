@@ -1,0 +1,8 @@
+# Build output
+build/
+*.apk
+*.apk.idsig
+
+# Signing key - keep private
+*.keystore
+*.jks
